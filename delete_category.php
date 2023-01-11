@@ -15,7 +15,7 @@
             </div>
         </div>
         <div class="row bg-secondary">
-            <div class="col-lg-6 p-3 text-light">
+            <div class="col-lg-6f  p-3 text-light">
                 <h4>Are you sure want to delete <?php echo "<kbd> ".$_GET['categoryName']." </kbd> ?"; ?></h4>
             </div>
             <div class="col-lg-1 p-3">
